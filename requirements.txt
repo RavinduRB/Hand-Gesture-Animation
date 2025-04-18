@@ -1,0 +1,6 @@
+mediapipe==0.10.0
+opencv-python==4.7.0.72
+numpy==1.24.3
+PyOpenGL==3.1.6
+PyOpenGL-accelerate==3.1.6
+numpy-stl==2.17.1
