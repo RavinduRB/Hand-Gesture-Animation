@@ -1,8 +1,32 @@
-# README.md
+# Hand Gesture Controlled Animation System 🚀
 
-# Gesture Control App
+This interactive system uses real time hand gesture recognition to control engaging visual animations like bubbles and rain using just your fingers. Powered by MediaPipe and OpenCV, the system reads webcam input and tracks hand movements to switch between different animations, offering an intuitive and fun way to interact with your screen.
 
-This project is a gesture-controlled application that utilizes Python, MediaPipe, OpenCV, and Selenium to create interactive animations based on hand gestures. The application recognizes gestures using computer vision techniques and displays different animations based on the number of fingers detected.
+
+
+
+https://github.com/user-attachments/assets/2e82424a-d2e9-42b2-a989-80da96e15e32
+
+
+
+
+### ❄️ Key Features
+- Real Time Hand Gesture Detection – Recognizes finger counts to trigger different animations (1 finger = bubbles, 2 fingers = rain).
+- Rain Animation – Simulates falling rain with white drops dynamically resetting when they reach the bottom.
+- Bubble Animation – Beautiful bubbles float up the screen, complete with a shiny highlight effect.
+- Live Webcam Integration – Captures and processes real time video input using OpenCV.
+
+---
+
+### 🌍 Tech Stack
+- Python 3
+- Selenium
+- OpenCV – for video processing and drawing animations.
+- MediaPipe – for hand landmark detection and face mesh tracking.
+- NumPy – for random generation and matrix operations.
+- Computer Vision – for gesture recognition and animation logic.
+
+---
 
 ## Project Structure
 
